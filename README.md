@@ -10,7 +10,7 @@
   <a href="mailto:nisarns8856@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1xG9qtA0FVh4T162ud-6BDaa3j4phcYDg/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1KFGHL5DkIgRWzlDnpiPIWHQHpYv2MAxL/view?usp=drive_link">
     <img src="https://img.shields.io/badge/-Resume-mediumseagreen?style=for-the-badge&logo=Googledrive&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
