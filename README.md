@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://jmp.sh/3vSR9bnZ">
-    <img src="https://img.shields.io/badge/-Resume-mediumseagreen?style=for-the-badge&logo=Googledrive&logoColor=white" alt="Github Badge"/>
+    <img src="https://drive.google.com/file/d/192lt1JCl4wpMNVR2hh_aK2m0KN3ZyT9K/view?usp=drive_link"/>
   </a>
 </div>
 
